@@ -1,13 +1,12 @@
 # Project Name:
-ParkIn
+FastPark
 
 > Pithy project description
- ParkIn is an online community marketplace that connects people looking to rent their Grage homes with people who are looking for Space to park their car. ParkIn include hosts and users: hosts list and rent out their unused garage spaces, and users search for and book the hoster garage.
+ FastPark is an online community marketplace that connects people looking to rent their Grage homes with people who are looking for Space to park their car. FastPark include hosts and users: hosts list and rent out their unused garage spaces, and users search for and book the hoster garage.
 ## Team
 
-  - __Product Owner__: Azhar
-  - __Scrum Master__: Mahmoud Khudairi
-  - __Development Team Members__: Mahmoud Zaid, Mustaf Dirie
+  - __Product Owner__: Aaron Hilis
+
 
 ## Table of Contents
 
